@@ -1,0 +1,1 @@
+console.log('Welcome to javascript - The Scripting Language')
